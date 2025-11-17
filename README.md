@@ -34,8 +34,8 @@ Task tab to keep a note of tasks to do-
 ![image alt](https://github.com/PratikDas747/22BCE1096_software_final/blob/main/task.png?raw=true)
 
 adding tasks-
-![image alt](https://github.com/PratikDas747/software_22bce1096/blob/main/add%20task%201.png?raw=true)
-![image alt](https://github.com/PratikDas747/software_22bce1096/blob/main/add%20task%202.png?raw=true)
+![image alt](https://github.com/PratikDas747/22BCE1096_software_final/blob/main/add%20task%201.png?raw=true)
+![image alt](https://github.com/PratikDas747/22BCE1096_software_final/blob/main/add%20task%202.png?raw=true)
 
 toggling between languages so that it could be accessed by a larger audience-
-![image alt](https://github.com/PratikDas747/software_22bce1096/blob/main/lang%20toggle.png?raw=true)
+![image alt](https://github.com/PratikDas747/22BCE1096_software_final/blob/main/lang%20toggle.png?raw=true)
